@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.instagram.com/carlosjorge0000/">
  <img style="border-radius: 50%;" src="https://instagram.ffor4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/52308099_674347649650689_1909127956802830336_n.jpg?tp=1&_nc_ht=instagram.ffor4-1.fna.fbcdn.net&_nc_ohc=Qz-d8YK8Dm8AX-mVTyc&ccb=7-4&oh=d67fff940161fe7a201928bf44abec48&oe=6083E3CA&_nc_sid=7bff83" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Carlos Jorge</b></sub></a> <a href="https://www.linkedin.com/in/carlos-jorge-de-castro-amorim-062118194/" title="Rocketseat">🚀</a>
 
 
 Feito com muito esforço e dedicação🏽:) Entre em contato!
