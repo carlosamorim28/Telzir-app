@@ -40,11 +40,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
 </a>
 
-<a href="https://www.instagram.com/carlosjorge0000/">
+<a href="https://www.linkedin.com/in/carlos-jorge-de-castro-amorim-062118194/">
  <img style="border-radius: 50%;" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-fonte.jpg" width="100px;" alt=""/>
  <br />
 </a>
-Feito com muito esforço e dedicação🏽:) Entre em contato!
+
+Feito com muito esforço e dedicação :) 
+Entre em contato!
 
 
 [![Gmail Badge](https://img.shields.io/badge/-carlosjorge26111999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjorge26111999@gmail.com)](carlosjorge26111999@gmail.)
