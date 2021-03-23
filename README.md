@@ -36,12 +36,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://www.instagram.com/carlosjorge0000/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://instagram.ffor4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/52308099_674347649650689_1909127956802830336_n.jpg?tp=1&_nc_ht=instagram.ffor4-1.fna.fbcdn.net&_nc_ohc=Qz-d8YK8Dm8AX-mVTyc&ccb=7-4&oh=d67fff940161fe7a201928bf44abec48&oe=6083E3CA&_nc_sid=7bff83" width="100px;" alt=""/>
  <br />
  <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+Feito com muito esforço e dedicação🏽:) Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.
