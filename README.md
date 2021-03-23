@@ -21,3 +21,14 @@
 - [x] Criação de componente escrolável para seleção de dados [checkbox mais bonita]
 - [x] calculo dos valores das faturas
 - [x] Organização do código
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+
+
