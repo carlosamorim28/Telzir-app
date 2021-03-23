@@ -14,3 +14,10 @@
 <h4 align="center"> 
  App Telzir - 😁😁Concuido...😁😁
 </h4>
+
+### Features
+
+- [x] Leitura de dados por caixa de texto
+- [x] Criação de componente escrolável para seleção de dados [checkbox mais bonita]
+- [x] calculo dos valores das faturas
+- [x] Organização do código
