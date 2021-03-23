@@ -3,8 +3,8 @@
 ## Aplicativo contruido a fim de facilitar a comparação entre o valor pago em uma ligação quando se tem e quando não se tem um dos planos dosónibilisados pela Telzir
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#🛠Tecnologias">Tecnologias</a> • 
+ <a href="#Features">Features</a> •
+ <a href="#Tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -19,7 +19,7 @@
 - [x] calculo dos valores das faturas
 - [x] Organização do código
 
-### 🛠Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
