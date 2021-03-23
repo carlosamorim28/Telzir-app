@@ -1,1 +1,1 @@
-# Telzir-app
+# App Telzir - Simulação de tarifas telefonicas
