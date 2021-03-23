@@ -43,5 +43,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com muito esforço e dedicação🏽:) Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-de-castro-amorim-062118194/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos Jorge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-jorge-de-castro-amorim-062118194/)](https://www.linkedin.com/in/carlos-jorge-de-castro-amorim-062118194/) 
 [![Gmail Badge](https://img.shields.io/badge/-carlosjorge26111999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjorge26111999@gmail.com)](carlosjorge26111999@gmail.)
