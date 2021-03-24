@@ -20,6 +20,14 @@
 - [x] calculo dos valores das faturas
 - [x] Organização do código
 
+### Demonstração da Aplicação
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/tutorial.gif" />
+</h1>
+
+basca marcar o DDD de origem, o DDD de destino, o tempo da ligação e clicar em gerar relatório que o app fará os devidos procedimentos
+
 ### Pré-requisitos
 
 Para Executar a aplicação será necessário possuir um celular android e permitir a instalação de aplicativos de fora da play store
